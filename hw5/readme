@@ -1,0 +1,28 @@
+
+------------------------In the Zip folder, we have--------------------------
+
+<<<<Three python files>>>
+
+  -dt_all_f.py:- contains the code to normalize, train, validate and test the model with all 41 features
+
+  -dt_some_f.py:- contains the code for normalize, train, validate and test the model with selected features
+
+  -datasplit:- * convert categorial data to numeric data
+               * convert attack labels into more genralize attack (normal, dos, probe, r2l, u2r) 
+               * split the data given in "kdddata.csv" into two data files namely train.csv(75%) and test.csv(25%)
+
+<<<<Data files>>>>
+  -kdddata.csv
+  -train.csv
+  -test.csv
+
+<<<<Report>>>>
+  -Homework5_Report.pdf
+
+<<<<This readme file>>>>
+
+-------------------------Instructions to run Python files-------------------
+
+- $ python3 datasplit.py
+- $ python3 dt_all_f.py
+- $ python3 dt_some_f.py

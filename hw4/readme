@@ -1,0 +1,31 @@
+
+------------------------In the Zip folder, we have--------------------------
+
+<<<<Three python files>>>
+
+  -Decisiontree.py:- contains the code to train, validate and test the model(Descisiontree)
+
+  -PCA_SVM.py:- contains the code for PCA and to train, validate and test the model(Support Vector Machine)
+
+  -Datasplit:- split the data given in "HW_TESLA.xlt" into three data files namely train.xlsx(50%), validation.xlsx(25%), test.xlsx(25%)
+
+<<<<Data files>>>>
+  -HW_TESLA.xlt
+  -train.xlsx
+  -validation.xlsx
+  -test.xlsx
+
+<<<<Report>>>>
+  -Homework4_Report.pdf
+
+<<<<This readme file>>>>
+
+------------------------------For testing-----------------------------------
+
+- change "test file name" in python files
+
+-------------------------Instructions to run Python files-------------------
+
+- $ python3 Datasplit.py
+- $ python3 Decisiontree.py
+- $ python3 PCA_SVM.py

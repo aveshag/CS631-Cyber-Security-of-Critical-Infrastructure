@@ -1,0 +1,19 @@
+
+------------------------In the Zip folder, we have--------------------------
+
+<<<<one python file>>>
+
+  -dmap.py:- contains the actual code
+
+<<<<Data files>>>>
+  -HW_TESLA.xlt
+
+
+<<<<Report>>>>
+  -Homework6_Report.pdf
+
+<<<<This readme file>>>>
+
+-------------------------Instructions to run Python files-------------------
+
+- $ python3 dmap.py
