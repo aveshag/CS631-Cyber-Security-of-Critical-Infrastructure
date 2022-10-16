@@ -1,6 +1,7 @@
 # CS631
 
 CS631 Cyber Security of Critical Infrastructure
+Instructor: Professor Sandeep Kumar Shukla
 
 CS631 is the course offered by Professor Sandeep Kumar Shukla in 2019-20 odd semester. This repository contains assignment done during course. 
 <br/><br/>
